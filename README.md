@@ -1,5 +1,5 @@
 # Language-Detection-using-pycld3
-Automatically detecting the language of a given text supported by 3 pre-trained NLP models using the following python packages :
+an AI model that automatically detects the language of a given text supported by 3 pre-trained NLP models using the following python packages :
 
 - LangDetect : detects the language of a given text among over 50 languages and provides a probability of that language being correct.
 - Langid : detects the language of a given text among 97 different languages.
